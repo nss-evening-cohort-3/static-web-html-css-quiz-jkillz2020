@@ -1,0 +1,41 @@
+
+body{
+  background-color: red;
+}
+
+article {
+  color: white;
+  float: left;
+  margin: 5px;
+  width: 30%;
+  border: 1px solid lightblue;
+}
+
+p {
+  text-align: justify;
+}
+
+h1 {
+  border: 1px dotted lightgray;
+  text-align: center;
+}
+
+.img img {
+  margin: 36.5px;
+  width: 75%;
+  height: 350px;
+}
+
+.available{
+  color:yellow;
+  background-color: darkgray;
+}
+
+.specs{
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+  font-weight: bold;
+}
